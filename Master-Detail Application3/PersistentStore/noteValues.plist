@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>B4</string>
+	<string>C5</string>
+	<string>C#5/Db5</string>
+	<string>D5</string>
+	<string>D#5/Eb5</string>
+	<string>E5</string>
+	<string>F5</string>
+	<string>F#5/Gb5</string>
+	<string>G5</string>
+	<string>G#5/Ab5</string>
+	<string>A5</string>
+	<string>A#5/Bb5</string>
+	<string>B5</string>
+	<string>C6</string>
+	<string>C#6/Db6</string>
+	<string>D6</string>
+	<string>D#6/Eb6</string>
+	<string>E6</string>
+	<string>F6</string>
+	<string>F#6/Gb6</string>
+	<string>G6</string>
+	<string>G#6/Ab6</string>
+	<string>A6</string>
+	<string>A#6/Bb6</string>
+	<string>B6</string>
+	<string>C7</string>
+	<string>C#7/Db7</string>
+	<string>D7</string>
+	<string>D#7/Eb7</string>
+	<string>E7</string>
+	<string>F7</string>
+	<string>F#7/Gb7</string>
+	<string>G7</string>
+	<string>G#7/Ab7</string>
+	<string>A7</string>
+	<string>A#7/Bb7</string>
+	<string>B7</string>
+</array>
+</plist>
